@@ -391,7 +391,7 @@ open class DKImagePickerController : UINavigationController {
         return camera
     }
     
-    internal func presentCamera() {
+    public func presentCamera() {
         self.present(self.createCamera(), animated: true, completion: nil)
     }
     
