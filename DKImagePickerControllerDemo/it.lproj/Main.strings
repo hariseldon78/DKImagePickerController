@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Layout Customization"; ObjectID = "8v9-Ht-9A1"; */
+"8v9-Ht-9A1.text" = "Layout Personalizzato";
+
+/* Class = "UILabel"; text = "Allows Landscape"; ObjectID = "Beb-i2-3IY"; */
+"Beb-i2-3IY.text" = "Permetti Landscape";
+
+/* Class = "UINavigationItem"; title = "DKImagePickerControllerDemo"; ObjectID = "KpY-LL-aIc"; */
+"KpY-LL-aIc.title" = "DKImagePickerControllerDemo";
+
+/* Class = "UILabel"; text = "Single Select"; ObjectID = "MKg-ja-IBj"; */
+"MKg-ja-IBj.text" = "Selezione singola";
+
+/* Class = "UILabel"; text = "Hides Camera"; ObjectID = "NEi-uK-G8Y"; */
+"NEi-uK-G8Y.text" = "Nascondi Camera";
+
+/* Class = "UITableViewSection"; headerTitle = "Camera"; ObjectID = "O8X-h0-P4Z"; */
+"O8X-h0-P4Z.headerTitle" = "Camera";
+
+/* Class = "UILabel"; text = "UI Customization"; ObjectID = "Peu-Ag-6vM"; */
+"Peu-Ag-6vM.text" = "Personalizzazione UI";
+
+/* Class = "UILabel"; text = "Camera Customization"; ObjectID = "X1z-dI-AYx"; */
+"X1z-dI-AYx.text" = "Personalizzazione Camera";
+
+/* Class = "UILabel"; text = "Pick All"; ObjectID = "bsX-V4-LO5"; */
+"bsX-V4-LO5.text" = "Seleziona tutti";
+
+/* Class = "UILabel"; text = "Take A Picture"; ObjectID = "d54-Os-mEk"; */
+"d54-Os-mEk.text" = "Scatta una foto";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "dW1-s1-a0L"; */
+"dW1-s1-a0L.text" = "Titolo";
+
+/* Class = "UILabel"; text = "Pick Videos Only"; ObjectID = "k1y-wX-BAP"; */
+"k1y-wX-BAP.text" = "Seleziona solo video";
+
+/* Class = "UITableViewSection"; headerTitle = "Appearance"; ObjectID = "rgz-f4-jHZ"; */
+"rgz-f4-jHZ.headerTitle" = "Aspetto";
+
+/* Class = "UILabel"; text = "Pick Photos Only"; ObjectID = "w9C-Rq-sWu"; */
+"w9C-Rq-sWu.text" = "Seleziona solo 2 foto";
+
+/* Class = "UITableViewSection"; headerTitle = "Basic"; ObjectID = "wGv-dG-QZE"; */
+"wGv-dG-QZE.headerTitle" = "Base";
+
+/* Class = "UILabel"; text = "Pick All(Only Photos Or Videos)"; ObjectID = "xp0-vu-BWU"; */
+"xp0-vu-BWU.text" = "Seleziona tutti (Solo foto o video)";

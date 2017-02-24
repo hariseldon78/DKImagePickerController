@@ -23,9 +23,10 @@ class DKImagePickerControllerDemoVC: UITableViewController {
             
             destination.pickerController = pickerController
             
-        case "Pick Photos Only":
+        case "Pick 2 Photos Only":
             let pickerController = DKImagePickerController()
             pickerController.assetType = .allPhotos
+			pickerController.maxSelectableCount = 2
             
             destination.pickerController = pickerController
             

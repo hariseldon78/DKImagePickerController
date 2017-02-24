@@ -166,6 +166,8 @@
 		B9EFB9731D20FB7D006CDCAA /* DKImagePickerControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DKImagePickerControllerTests.swift; sourceTree = "<group>"; };
 		B9EFB9751D20FB7D006CDCAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B9EFB9931D2105A3006CDCAA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FBE9697F1E6082000040ED55 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Main.strings; sourceTree = "<group>"; };
+		FBE969801E6082000040ED55 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -529,6 +531,7 @@
 				en,
 				Base,
 				"zh-Hans",
+				it,
 			);
 			mainGroup = 9C35CBF619DBB00700557269;
 			productRefGroup = 9C35CC0019DBB00700557269 /* Products */;
@@ -690,6 +693,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				9CBF3F6D1AB15D210000F1D1 /* Base */,
+				FBE969801E6082000040ED55 /* it */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -698,6 +702,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				9CBF3F6F1AB15D210000F1D1 /* Base */,
+				FBE9697F1E6082000040ED55 /* it */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
